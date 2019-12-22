@@ -5,3 +5,4 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv-2.4.9"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
+   
